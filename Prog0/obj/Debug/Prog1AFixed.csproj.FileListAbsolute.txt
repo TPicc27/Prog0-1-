@@ -1,0 +1,6 @@
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\obj\Debug\Prog0.exe
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\obj\Debug\Prog0.pdb
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\bin\Debug\Prog0.exe
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\bin\Debug\Prog0.pdb
+C:\Users\TPicc27\Documents\Prog0(1)\Prog0\obj\Debug\Prog1AFixed.csprojResolveAssemblyReference.cache
